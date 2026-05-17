@@ -5,8 +5,4 @@
 //  Created by Erik Solis  on 2026-05-16.
 //
 
-#import <Foundation/Foundation.h>
-
-@interface objc_utils : NSObject
-
-@end
+#import "AppInfo.h"
